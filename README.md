@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @deepeyes84
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL, Python, Tableau etc
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Python, Tableau, SQL etc
+- 👀 My OS is 'MACBOOK AIR M2, Ventura'
 - 📫 How to reach me ...
-
-<!---
-deepeyes84/deepeyes84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
