@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @deepeyes84
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python, Tableau, SQL etc
-- 👀 My OS is 'MACBOOK AIR M2, Ventura'
-- 📫 How to reach me ...
+- 👀 My OS is 'Macbook Air M2, Ventura'
