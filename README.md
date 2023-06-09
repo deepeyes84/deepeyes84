@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @deepeyes84
 - 👀 I’m interested in Data Analytics
-- 👀 My OS is 'Macbook Air M2, Ventura'
+- 👀 My OS is 'Macbook Air M2, 16GB RAM, Ventura 13.4'
 - Certifications: ADsP, SQLD, Big-Data Analysis Engineer(빅데이터분석기사)
